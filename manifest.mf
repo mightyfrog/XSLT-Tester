@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: org.mightyfrog.util.xslttester.XSLTTester
+Class-Path: .
